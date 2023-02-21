@@ -23,7 +23,6 @@ s_id=30101;
 subject="Math"
 marks=88;
 avg=55.52;
-def printDetails(name,sid,sub,mar,avg):
-    print("my name is : ",name,"\n and the id is : ",sid,"\n My subject was : ",sub,"\n Marks is : ",mar,"\n avg : ",avg)
-
+def printDetails(name,sidu,sub,mar,avg):
+    print("my name is : ",name,"\n and the id is : ",sidu,"\n My subject was : ",sub,"\n Marks is : ",mar,"\n avg : ",avg)
 printDetails(name,s_id,subject,marks,avg);
